@@ -81,6 +81,7 @@ header {
 
 .logo {
   float: left;
+  margin-right: 410px;
 }
 
 nav {
@@ -129,7 +130,6 @@ nav > ul > li > a {
   align-items: center;
 
   background: var(--light-steel-blue);
-  border: 1px solid black;
   background-position: center;
   background-size: cover;
 }
