@@ -25,7 +25,7 @@ This repository is dedicated to the FreeCodeCamp project of Responsive Web Desig
 
 ## Acknowledgements
 
-- [Need to fulfill the given user stories](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+- [Need to fulfill the given user stories](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 
 - You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS.
 
